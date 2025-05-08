@@ -86,7 +86,7 @@
       <br>Git
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="30" alt="GitHub">
       <br>GitHub
     </td>
     <td align="center">
@@ -96,6 +96,32 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="30" alt="Jira" />
       <br>Jira
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" height="30" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center">
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" height="30" alt="WebStorm" />
+      <br>WebStorm
+    </td>
+    <td align="center">
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" height="30" alt="CLion" />
+      <br>CLion
+    </td>
+    <td align="center">
+      <img src="https://www.razorman.net/wp-content/uploads/2023/11/image-214-1024x1024.png" height="30" alt="Android Studio">
+      <br>Android Studio
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" height="30" alt="Cursor AI" />
+      <br>Cursor AI
     </td>
   </tr>
 </table>
