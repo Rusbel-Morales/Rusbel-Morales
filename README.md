@@ -3,7 +3,7 @@
 🎓 Estudiante de 8º semestre en el *Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Puebla*.  
 💻 Soy un **desarrollador de software en proceso**, apasionado por la tecnología y comprometido con la creación de soluciones digitales que generen impacto positivo. Tengo experiencia en el desarrollo web, así como en la construcción de interfaces móviles con **Android y Kotlin**.
 
-🚀 Mi enfoque principal está en el **desarrollo backend** y el manejo de **bases de datos relacionales**, donde disfruto trabajar con tecnologías como **Node.js, Express.js, SQL y PostgreSQL**. Actualmente, estoy haciendo mis prácticas profesionales como **Software Developer Intern** con la empresa Softtek en Monterrey, Nuevo León, México, donde he podido aplicar mis conocimientos en el desarrollo Full-Stack.
+🚀 Mi enfoque principal está en el **desarrollo backend** y el manejo de **bases de datos relacionales**, donde disfruto trabajar con tecnologías como **Node.js, Express.js, SQL y PostgreSQL**. Actualmente, estoy haciendo mis prácticas profesionales como **Software Developer Intern** en la empresa Softtek en Monterrey, Nuevo León, México, donde he podido aplicar mis conocimientos en el desarrollo Full-Stack.
 
 ---
 
